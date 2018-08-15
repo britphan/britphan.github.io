@@ -55,7 +55,7 @@ a, a:link, a:visited, a:active {
 	margin:8px;
 }
 .banner {
-	background: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%), url(artechouse.jpg);
+	background: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%), url('../images/artechouse.jpg');
 	background-position:left 30%;
 	background-attachment:fixed;
 	background-size:cover;
@@ -142,7 +142,7 @@ a, a:link, a:visited, a:active {
 	width:500px;
 }
 .about-box{
-	background:url('white-pattern.png');
+	background:url('../images/white-pattern.png');
 	position:absolute;
 	margin-left:40px;
 	margin-top:40px;
@@ -174,7 +174,7 @@ a, a:link, a:visited, a:active {
 .skills-bg{
 	height:800px;
 	position:relative;
-	background:url('white-pattern.png');
+	background:url('../images/white-pattern.png');
 }
 .skills-box{
 	background:#AF5D5D;
@@ -233,7 +233,7 @@ a, a:link, a:visited, a:active {
 /****EXPERIENCE****/
 
 .experience-bg {
-	background:url('pattern.png');
+	background:url('../images/pattern.png');
 	height:900px;
 	background-repeat:repeat;
 	background-size:20%;
@@ -264,7 +264,7 @@ a, a:link, a:visited, a:active {
 .circle{
 	width: 11px;
 	height: 11px;
-	background: url(pattern.png);
+	background: url('images/pattern.png');
 	border: 1px solid #FFFFFF;
 	border-radius:8px;
 	position:absolute;
